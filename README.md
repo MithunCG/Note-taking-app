@@ -112,12 +112,6 @@ Visit [http://127.0.0.1:8000](http://127.0.0.1:8000) to use the app.
 
 ---
 
-## License
-
-MIT License © 2025 Your Name
-
----
-
 Feel free to open issues or contribute!
 
 ```
