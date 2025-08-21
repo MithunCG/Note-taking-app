@@ -1,0 +1,4 @@
+from pymongo import MongoClient
+MONGO_URI = "your_mongodb_connection_string_here"
+
+conn = MongoClient(MONGO_URI)

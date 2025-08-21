@@ -1,0 +1,44 @@
+db.py
+
+# Python cache folders
+**/__pycache__/
+**/*.py[cod]
+
+# Virtual environment folder
+myenv/
+
+# Byte-compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# VS Code / JetBrains IDE settings (optional)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment variables file (if any)
+.env
+
+# SQLite or other database files (if used)
+*.sqlite3
+
+# Ignore Python compiled files anywhere
+*.so
+
+# macOS files (if you're on mac)
+.DS_Store
+
+# Other OS files
+Thumbs.db
+
+# Ignore all other hidden files except .gitignore
+.*
+!.gitignore
