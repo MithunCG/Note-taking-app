@@ -1,4 +1,4 @@
-**(Done by me to lear FastAPI)
+**(Done by me to learn FastAPI)
 **
 ````markdown
 # iNotes - FastAPI Note-Taking App
