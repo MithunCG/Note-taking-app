@@ -1,5 +1,5 @@
-Sure! Here’s a simple but comprehensive **README.md** template tailored for your FastAPI note-taking app with MongoDB:
-
+**(Done by me to lear FastAPI)
+**
 ````markdown
 # iNotes - FastAPI Note-Taking App
 
