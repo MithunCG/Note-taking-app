@@ -43,9 +43,8 @@ Add, view, and manage your notes via a clean web interface.
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/inotes.git
-cd inotes
-````
+git clone https://github.com/MithunCG/Note-taking-app.git
+cd Note-taking-app````
 
 2. **Create a virtual environment**
 
